@@ -1,6 +1,6 @@
 # 2-Axis Gantry Forklift System
 
-**Senior Capstone (ME 190/191), California State University, Sacramento** · Fall 2025 · 2-person team (Jared Eddington, Tai Nguyen)
+**Senior Capstone (ME 190/191), California State University, Sacramento** · Fall 2025 · 2-person team 
 
 ![SolidWorks model](images/cad_model.png)
 
